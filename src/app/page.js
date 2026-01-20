@@ -13,7 +13,7 @@ export default async function Home() {
     <>
       <div className="p-10">
         <h1 className="text-3xl font-bold text-center mb-10">
-          Rick and Morty Wiki
+          Rick and Morty
         </h1>
 
         {/* Character Cards Grid */}
